@@ -19,6 +19,11 @@ export default function Home() {
           Go to Week 4 Assignment
         </Link>
       </p>
+      <p className="mt-4 text-lg">
+  <Link href="/week-5" className="text-purple-500 hover:underline">
+    Go to Week 5 Assignment
+  </Link>
+</p>
     </main>
   );
 }
